@@ -1,0 +1,90 @@
+# -------------------------------
+# Python & Scripts
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyt
+*.pycache/
+*.env
+.env/
+
+# -------------------------------
+# Jupyter / Notebooks
+# -------------------------------
+.ipynb_checkpoints
+
+# -------------------------------
+# NVIDIA Omniverse / Isaac Sim
+# -------------------------------
+# USD / Omni cache and temp files
+*.usd
+*.usda
+*.usdc
+*.usdz
+*.omni
+*.omni-cache/
+*.omni-log/
+*.omni-backup/
+
+# Isaac Sim generated
+*.simlog
+*.simcache
+*.simtmp
+*.simbackup
+*.simconfig
+*.simscene
+*.simstate
+
+# -------------------------------
+# 3D & CAD Files
+# -------------------------------
+*.stp
+*.step
+*.iges
+*.igs
+*.stl
+*.obj
+*.fbx
+*.dae
+*.3ds
+
+# -------------------------------
+# Build / Temp Files
+# -------------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# -------------------------------
+# IDE / Editor
+# -------------------------------
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# -------------------------------
+# Media Files
+# -------------------------------
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# -------------------------------
+# GitHub / Git
+# -------------------------------
+# Ignore local environment files
+*.env
+.env.local
+*.local
