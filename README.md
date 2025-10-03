@@ -23,4 +23,6 @@ Simulated and controlled a **Robotiq 2F85 gripper** attached to a **Kinova Gen3 
 - Velocity control effective for grasping; position control suited for precise placement.  
 - Platform ready for generating imitation learning datasets.
 
+[![NVIDIA Robot Assembler](https://img.youtube.com/vi/dC7FEgKUbtI/maxresdefault.jpg)](https://www.youtube.com/watch?v=dC7FEgKUbtI)
+
 _Distribution Statement A: Approved for public release; distribution is unlimited._
